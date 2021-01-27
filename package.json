@@ -1,0 +1,34 @@
+{
+  "name": "infotition-discord-bot",
+  "version": "1.0.0",
+  "description": "The Infotition Discord Bot is a feature-rich server moderation Discord bot with Patreon and Infotition-Technologie integration.",
+  "main": "index.js",
+  "scripts": {
+    "parse": "tsc",
+    "start": "npm run parse&& cd ./dist/&& node index.js",
+    "devStart": "npm run parse&& cd ./dist/&& nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infotition/infotition-discord-bot"
+  },
+  "author": "Infotition",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@types/node": "^14.14.22",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1",
+    "eslint": "^7.18.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.3"
+  }
+}
