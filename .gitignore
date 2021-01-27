@@ -5,6 +5,7 @@ node_modules
 coverage
 
 # Secruity
+index.env
 
 # Temporary
 temp
