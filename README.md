@@ -5,14 +5,14 @@
   </p>
   <h1>Infotition Discord Bot</h1>
   <p>
-    The Infotition Discord Bot is a feature-rich server moderation Discord bot with [Patreon](https://www.patreon.com/infotition) and [Infotition](https://www.infotition.de) Technologie integration. 
+    The Infotition Discord Bot is a feature-rich server moderation Discord bot with <a href="https://www.patreon.com/infotition">Patreon</a> and <a href="https://www.infotition.de">Infotition</a>Technologie integration. 
   </p>
   <br>
   <p>
-    <a href="https://david-dm.org/Infotition/petron" title="dependencies status">
+    <a href="https://david-dm.org/Infotition/infotition-discord-bot" title="dependencies status">
       <img src="https://status.david-dm.org/gh/Infotition/infotition-discord-bot.svg"/>
     </a>
-    <a href="https://david-dm.org/Infotition/petron?type=dev" title="devDependencies status">
+    <a href="https://david-dm.org/Infotition/infotition-discord-bot?type=dev" title="devDependencies status">
       <img src="https://status.david-dm.org/gh/Infotition/infotition-discord-bot.svg?type=dev"/>
     </a>
     <br>
