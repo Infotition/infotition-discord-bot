@@ -1,3 +1,5 @@
+//* ---------------------- Status --------------------- *\\
+
 module.exports = {
   commands: 'status',
   expectedArgs: '[text]',

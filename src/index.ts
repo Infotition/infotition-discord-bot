@@ -22,4 +22,4 @@ client.on('ready', () => {
 });
 
 //* -------------------- START BOT -------------------- *\\
-client.login(process.env.TOKEN);
+client.login(process.env.DISCORD_TOKEN);
